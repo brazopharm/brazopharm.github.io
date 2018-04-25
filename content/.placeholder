@@ -1,0 +1,2 @@
+A dot file to keep git from not tracking this otherwise empty directory which
+hugo will then complain about being missing.
